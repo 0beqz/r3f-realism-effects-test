@@ -1,0 +1,32 @@
+{
+  "name": "motor-part-explosion",
+  "version": "1.0.0",
+  "description": "Controlling object animations with scrollcontrols.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "9.57.0",
+    "@react-three/fiber": "8.11.9",
+    "lamina": "^1.1.23",
+    "leva": "0.9.34",
+    "postprocessing": "^6.30.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "react-use-refs": "1.0.1",
+    "realism-effects": "^1.0.14",
+    "three": "^0.150.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">1%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
